@@ -11,5 +11,6 @@ Link to working paper and slides
 
 To expot to PDF
 
+library(webshot)
 webshot("slides-project2019h-cla-convergence-latin-america.html", "slides-project2019h-cla-convergence-latin-america.pdf")
 

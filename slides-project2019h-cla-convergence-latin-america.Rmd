@@ -2,7 +2,7 @@
 title: "Productivity Differences and Convergence Clubs in Latin America"
 subtitle: 
 author: "Carlos Mendez<br />https://carlos-mendez.rbind.io<br /><br />Associate Professor<br />Graduate School of International Development<br />Nagoya University, JAPAN"
-date: "Prepared for the 2019 International Joint Conference of   JAHSS・JASID <br /><br />[ Slides and paper available at: http://bit.ly/jasid2019 ]"
+date: "Prepared for the 2019 International Joint Conference of   JAHSS・JASID <br /><br />[ Slides and paper available at: http://bit.ly/jasid2019n ]"
 output:
   xaringan::moon_reader:
     css: ["default", "metropolis-fonts", "svm-xaringan-style.css"]
@@ -90,7 +90,7 @@ class: middle
 
 <br />
 <br />
-[ Slides and paper available at: http://bit.ly/jasid2019 ]
+[ Slides and paper available at: http://bit.ly/jasid2019n ]
 
 ---
 
@@ -246,7 +246,7 @@ class: center, middle
 
 https://carlos-mendez.rbind.io
 
-Slides and working paper available at: http://bit.ly/jasid2019 
+Slides and working paper available at: http://bit.ly/jasid2019n 
 
 ![](figs/QuaRCS-lab-logo2.png)
 
