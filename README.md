@@ -2,7 +2,11 @@
 
 Link to the slides
 
-<https://jaae2019-convergence-efficiency-indonesia.netlify.com/#1>
+<https://slides-project2019h-cla-convergence-latin-america.netlify.com/#1>
+
+Link to working paper and slides
+
+<http://bit.ly/jasid2019>
 
 
 To expot to PDF
