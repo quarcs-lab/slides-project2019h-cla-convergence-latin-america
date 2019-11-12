@@ -1,4 +1,4 @@
-# JAAE2019-Convergence-Efficiency-Indonesia
+# slides-project2019h-cla-convergence-latin-america
 
 Link to the slides
 
@@ -7,8 +7,5 @@ Link to the slides
 
 To expot to PDF
 
-webshot("JAAE2019-Convergence-Efficiency-Indonesia.html", "JAAE2019-Convergence-Efficiency-Indonesia.pdf")
+webshot("slides-project2019h-cla-convergence-latin-america.html", "slides-project2019h-cla-convergence-latin-america.pdf")
 
-Reference
-
-https://stackoverflow.com/questions/54968311/xaringan-export-slides-to-pdf-while-preserving-formatting
