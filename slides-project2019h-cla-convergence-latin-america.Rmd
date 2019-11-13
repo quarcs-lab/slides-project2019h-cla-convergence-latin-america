@@ -35,13 +35,11 @@ options(htmltools.dir.version = FALSE)
 ## Methods:
 
 - Nonlinear dynamic factor model  (Phillips and Sul, 2007, 2009)
-
 - Clustering algorithm for panel data (Phillips and Sul, 2007, 2009)
 
 ## Data:
 
 - Labor productivity and total factor productivity (Fernandez-Arias, 2017)
-
 - 20 Latin American countries over the 1980-2014 period 
 
 
@@ -103,11 +101,34 @@ Labor productivity
 
 Total factor productivity
 
+
 ---
 
 class: middle,center
 
-## Large, persistent, and heterogeneous productivity differences across Latin America
+## Large and heterogeneous productivity differences across Latin America
+
+![](figs/fig00a.png)
+
+Note: Labor productivity is computed as the long-run trend of (log) GDP per worker. The Hodrick-Prescott filter with a smoothing parameter of 6.25 is applied to obtain the long-run trends. 
+
+
+---
+
+class: middle,center
+
+## Large and heterogeneous productivity differences across Latin America
+
+![](figs/fig00b.png)
+
+Note: Total factor productivity is computed by dividing GDP per worker by an aggregate index of physical capital and human capital. The Hodrick-Prescott filter with a smoothing parameter of 6.25 is applied to obtain the long-run trends. 
+
+
+---
+
+class: middle,center
+
+## Are there any signs of overall convergence/divergence or convergence clubs?
 
 ![](figs/fig01.jpg)
 
@@ -222,18 +243,15 @@ class: middle
 - Multiple convergence clubs below and above the mean
 
 - The clubs show different convergence speeds and separating tendencies.
-
   -The poor economic performance of Honduras and Nicaragua is driving the separation of clubs over time.
 
 ## Implications and further research
-
 
 - Convergence clubs may help us identify economies facing similar challenges
 - Call for better coordination and cooperation policies both within and between clubs
   -  International technology transfer initiatives to improve economic cohesion and competitiveness in Latin America.
   
 - Masked behind the low productivity of Latin America, there is still a high degree of heterogeneity that is worth exploring
-
   - Next extension: (Re)evaluate the composition of convergence clubs using subnational data, which is to be constructed using satellite nightlight data.
 
 
